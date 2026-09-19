@@ -6,7 +6,7 @@ Website landing page interaktif untuk BNCC (Bina Nusantara Computer Club), menam
 
 ## Visualisasi
 
-![Screenshot] https://github.com/nisdenn/GitReady-2.0-ICIKIWIR_ASELOLE/blob/main/assets/Screenshot%202026-09-19%20130502.png
+https://github.com/nisdenn/GitReady-2.0-ICIKIWIR_ASELOLE/blob/main/assets/Screenshot%202026-09-19%20130502.png
 
 Live Demo: https://git-ready-2-0-icikiwir-aselole.vercel.app/
 
