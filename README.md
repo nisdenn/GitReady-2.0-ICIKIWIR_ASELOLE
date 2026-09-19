@@ -8,7 +8,7 @@ Website landing page interaktif untuk BNCC (Bina Nusantara Computer Club), menam
 
 ![Screenshot](link-screenshot-kamu.png)
 
-Live Demo: [[link-demo-jika-ada](https://git-ready-2-0-icikiwir-aselole.vercel.app/)](#)
+Live Demo: [(https://git-ready-2-0-icikiwir-aselole.vercel.app/)](#)
 
 ---
 
