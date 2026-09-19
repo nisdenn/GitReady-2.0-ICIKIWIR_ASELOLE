@@ -41,7 +41,7 @@ Live Demo: https://git-ready-2-0-icikiwir-aselole.vercel.app/
 | Nama | Role | Kontribusi |
 | --- | --- | --- |
 | [Denis Lapianso Akbar](https://github.com/Zeyneiii) | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Al Kaisar Farabi](https://github.com/Zeyneiii) | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| [Kaisar AL Farabi](https://github.com/Zeyneiii) | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
 | [Rizki Pratama Arahab](https://github.com/rizkipratamaHUB) | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
